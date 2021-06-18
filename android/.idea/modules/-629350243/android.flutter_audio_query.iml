@@ -32,17 +32,23 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../build/flutter_audio_query/generated/aidl_source_output_dir/debug/compileDebugAidl/out" />
     <content url="file://$MODULE_DIR$/../../../../build/flutter_audio_query/generated/aidl_source_output_dir/debugAndroidTest/compileDebugAndroidTestAidl/out" />
-    <content url="file://$MODULE_DIR$/../../../../build/flutter_audio_query/generated/ap_generated_sources/debug/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_audio_query/generated/ap_generated_sources/debug/out">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/flutter_audio_query/generated/ap_generated_sources/debug/out" isTestSource="false" generated="true" />
+    </content>
     <content url="file://$MODULE_DIR$/../../../../build/flutter_audio_query/generated/ap_generated_sources/debugAndroidTest/out" />
     <content url="file://$MODULE_DIR$/../../../../build/flutter_audio_query/generated/ap_generated_sources/debugUnitTest/out" />
     <content url="file://$MODULE_DIR$/../../../../build/flutter_audio_query/generated/renderscript_source_output_dir/debug/compileDebugRenderscript/out" />
     <content url="file://$MODULE_DIR$/../../../../build/flutter_audio_query/generated/renderscript_source_output_dir/debugAndroidTest/compileDebugAndroidTestRenderscript/out" />
     <content url="file://$MODULE_DIR$/../../../../build/flutter_audio_query/generated/res/resValues/androidTest/debug" />
-    <content url="file://$MODULE_DIR$/../../../../build/flutter_audio_query/generated/res/resValues/debug" />
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_audio_query/generated/res/resValues/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/flutter_audio_query/generated/res/resValues/debug" type="java-resource" />
+    </content>
     <content url="file://$MODULE_DIR$/../../../../build/flutter_audio_query/generated/res/rs/androidTest/debug" />
     <content url="file://$MODULE_DIR$/../../../../build/flutter_audio_query/generated/res/rs/debug" />
     <content url="file://$MODULE_DIR$/../../../../build/flutter_audio_query/generated/source/buildConfig/androidTest/debug" />
-    <content url="file://$MODULE_DIR$/../../../../build/flutter_audio_query/generated/source/buildConfig/debug" />
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_audio_query/generated/source/buildConfig/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/flutter_audio_query/generated/source/buildConfig/debug" isTestSource="false" generated="true" />
+    </content>
     <content url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/flutter_audio_query-0.3.5+6/android">
       <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/flutter_audio_query-0.3.5+6/android/src/main/java" isTestSource="false" />
       <excludeFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/flutter_audio_query-0.3.5+6/android/.gradle" />
