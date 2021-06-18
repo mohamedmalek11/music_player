@@ -4,11 +4,11 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1511542177/android.audio_session.iml" filepath="$PROJECT_DIR$/.idea/modules/-1511542177/android.audio_session.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/-629350243/android.flutter_audio_query.iml" filepath="$PROJECT_DIR$/.idea/modules/-629350243/android.flutter_audio_query.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1820581698/android.flutter_plugin_android_lifecycle.iml" filepath="$PROJECT_DIR$/.idea/modules/-1820581698/android.flutter_plugin_android_lifecycle.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1288918513/android.just_audio.iml" filepath="$PROJECT_DIR$/.idea/modules/-1288918513/android.just_audio.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/-490434883/android.path_provider.iml" filepath="$PROJECT_DIR$/.idea/modules/-490434883/android.path_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/295912286/com.ryanheise.audio_session.android.audio_session.iml" filepath="$PROJECT_DIR$/.idea/modules/295912286/com.ryanheise.audio_session.android.audio_session.iml" />
     </modules>
   </component>
 </project>
